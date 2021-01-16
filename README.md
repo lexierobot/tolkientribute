@@ -1,7 +1,7 @@
 # tolkientribute
 J.R.R. Tolkien Tribute Page
 
-![Tolkien Tribute Page] (images/tolkientributepage.png)
+<img src="images/tolkientributepage.png" alt="Tolkien Tribute Page" width= 500px />
 
 
 -View on Code Pen
